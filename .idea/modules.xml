@@ -4,6 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/HomeWork10/HomeWork10.iml" filepath="$PROJECT_DIR$/HomeWork10/HomeWork10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWork11/HomeWork11.iml" filepath="$PROJECT_DIR$/HomeWork11/HomeWork11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWork12/HomeWork12.iml" filepath="$PROJECT_DIR$/HomeWork12/HomeWork12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWork13/HomeWork13.iml" filepath="$PROJECT_DIR$/HomeWork13/HomeWork13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWork14/HomeWork14.iml" filepath="$PROJECT_DIR$/HomeWork14/HomeWork14.iml" />
       <module fileurl="file://$PROJECT_DIR$/HomeWork2/HomeWork2.iml" filepath="$PROJECT_DIR$/HomeWork2/HomeWork2.iml" />
       <module fileurl="file://$PROJECT_DIR$/HomeWork3/HomeWork3.iml" filepath="$PROJECT_DIR$/HomeWork3/HomeWork3.iml" />
       <module fileurl="file://$PROJECT_DIR$/HomeWork4/HomeWork4.iml" filepath="$PROJECT_DIR$/HomeWork4/HomeWork4.iml" />
