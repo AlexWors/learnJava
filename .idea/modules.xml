@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Final1/Final1.iml" filepath="$PROJECT_DIR$/Final1/Final1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Final2/Final2.iml" filepath="$PROJECT_DIR$/Final2/Final2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Final3/Final3.iml" filepath="$PROJECT_DIR$/Final3/Final3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Final4/Final4.iml" filepath="$PROJECT_DIR$/Final4/Final4.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/HomeWork10/HomeWork10.iml" filepath="$PROJECT_DIR$/HomeWork10/HomeWork10.iml" />
       <module fileurl="file://$PROJECT_DIR$/HomeWork11/HomeWork11.iml" filepath="$PROJECT_DIR$/HomeWork11/HomeWork11.iml" />
